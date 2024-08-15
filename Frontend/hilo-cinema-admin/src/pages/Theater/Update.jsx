@@ -116,6 +116,7 @@ const UpdateTheaterModal = ({ theater, isOpen, onClose, fetchTheaters }) => {
         </Modal>
     );
 };
+// Update theetare he
 
 UpdateTheaterModal.propTypes = {
     theater: PropTypes.object.isRequired,
