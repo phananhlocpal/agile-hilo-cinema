@@ -7,4 +7,6 @@ const CommingSoonPage = () => {
     );
 };
 
+// Update some thing here
+
 export default CommingSoonPage;
