@@ -10,7 +10,7 @@ const DetailPostPage = () => {
             <div className="lg:col-span-4">
                 <Breadcrumbs separator={<NavigateNext fontSize="small" />} aria-label="breadcrumb">
                     <Link underline="hover" key="1" color="inherit" href="/">
-                        MUI
+                        MUI!!
                     </Link>
                     <Link underline="hover" key="2" color="inherit" href="/material-ui/getting-started/installation/">
                         Core
