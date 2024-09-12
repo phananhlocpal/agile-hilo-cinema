@@ -16,7 +16,7 @@ const DetailPostPage = () => {
                         Core
                     </Link>
                     <Typography key="3" color="text.primary">
-                        Breadcrumb
+                        Breadcrumb!!!!
                     </Typography>
                 </Breadcrumbs>
             </div>
