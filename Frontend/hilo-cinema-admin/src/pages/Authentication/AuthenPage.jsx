@@ -51,9 +51,9 @@ export default function SimpleCard() {
       bg={useColorModeValue('gray.50', 'gray.800')}>
       <Stack spacing={8} mx={'auto'} maxW={'lg'} py={12} px={6}>
         <Stack align={'center'}>
-          <Heading fontSize={'4xl'}>Sign in to your account</Heading>
+          <Heading fontSize={'4xl'}>Sign in to your account!!!!!</Heading>
           <Text fontSize={'lg'} color={'gray.600'}>
-            Welcome back <span style={{color: 'blue'}}>Hilo Cinema Family</span> ✌️
+            Welcome back <span style={{color: 'blue'}}>Welcome to Hilo Cinema Family</span> ✌️
           </Text>
         </Stack>
         <Box
