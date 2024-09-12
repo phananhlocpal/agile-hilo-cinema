@@ -42,7 +42,7 @@ const FilmDetail = () => {
                             <div className="movie__showtime">
                                 <div className="movie__showtime-header">
                                     <span className="border-l-4 border-solid border-blue-10 mr-2"></span>
-                                    <h1 className="mb-4 text-base inline-block capitalize font-bold">Lịch chiếu</h1>
+                                    <h1 className="mb-4 text-base inline-block capitalize font-bold">Lịch chiếu!!!!</h1>
                                 </div>
                                 <MovieChooseDateComponent schedule={exampleSchedule} selectedDate={selectedDate} onDateChange={handleDateChange} />
                                 <Schedule data={exampleSchedule.find(item => item.day === selectedDate)?.detailSchedule || []} />
