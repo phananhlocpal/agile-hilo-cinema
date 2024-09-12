@@ -33,11 +33,11 @@ const BookingPage = () => {
             <div className="relative mt-4 h-[2px] before:inline-block before:w-full before:absolute before:left-0 before:h-[2px] before:bg-grey-30 after:inline-block after:absolute after:left-0 after:h-[2px] after:bg-blue-10 after:w-full"></div>
           </li>
           <li className="pt-4 mb-4 pl-0 text-blue-10">
-            <button className="md:mx-3 mx-1">Chọn ghế</button>
+            <button className="md:mx-3 mx-1">Chọn ghế!!!</button>
             <div className="relative mt-4 h-[2px] before:inline-block before:w-full before:absolute before:left-0 before:h-[2px] before:bg-grey-30"></div>
           </li>
           <li className="pt-4 mb-4 pl-0">
-            <button className="md:mx-3 mx-1">Chọn thức ăn</button>
+            <button className="md:mx-3 mx-1">Chọn thức ăn!!!</button>
             <div className="relative mt-4 h-[2px] before:inline-block before:w-full before:absolute before:left-0 before:h-[2px] before:bg-grey-30"></div>
           </li>
           <li className="pt-4 mb-4 pl-0">
