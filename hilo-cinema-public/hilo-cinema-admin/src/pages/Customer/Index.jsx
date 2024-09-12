@@ -88,7 +88,7 @@ const CustomerPage = () => {
 
     return (
         <div className="mx-5 my-5">
-            <h1 className="ml-5 mb-5 font-bold text-3xl">Quản lý khách hàng</h1>
+            <h1 className="ml-5 mb-5 font-bold text-3xl">Quản lý khách hàng!!!!</h1>
             <div className="flex justify-between mb-5">
                 <Button
                     colorScheme="blue"
