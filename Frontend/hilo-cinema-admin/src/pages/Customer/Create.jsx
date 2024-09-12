@@ -46,7 +46,7 @@ const CreateCustomerModal = ({ isOpen, onClose, fetchCustomers }) => {
         <Modal isOpen={isOpen} onClose={onClose} size={"xl"} scrollBehavior={scrollBehavior}>
             <ModalOverlay />
             <ModalContent>
-                <ModalHeader>Tạo mới khách hàng</ModalHeader>
+                <ModalHeader>Tạo mới khách hàng!!!!</ModalHeader>
                 <ModalCloseButton />
                 <ModalBody pb={6}>
                     <FormControl>

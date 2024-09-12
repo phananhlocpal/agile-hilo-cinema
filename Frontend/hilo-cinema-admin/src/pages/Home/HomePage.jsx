@@ -13,7 +13,7 @@ const HomePage = () => {
 
     return (
         <div className="mx-5 my-5">
-            <h1 className="ml-5 mb-5 font-bold text-3xl">Quản lý phim</h1>
+            <h1 className="ml-5 mb-5 font-bold text-3xl">Quản lý phim!!!!!</h1>
             <div className="flex justify-between mb-5">
                 <Button colorScheme='blue' className="ml-5" onClick={onOpen}>Create New</Button>
                 <Input placeholder='Basic usage' style={{ width: "25rem" }} />
