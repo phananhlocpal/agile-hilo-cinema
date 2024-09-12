@@ -25,7 +25,7 @@ const TheaterPage = () => {
 
     return (
         <div>
-            <h1>Theater List</h1>
+            <h1>Theater List!!!!</h1>
             <ul>
                 {theaters.map(theater => (
                     <li key={theater.id}>{theater.name}</li>
